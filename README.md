@@ -21,6 +21,7 @@
 #couldn't be uploaded to GitHub.
 
 #You can find the slides to the presentation summing up the results at:
+# https://drive.google.com/file/d/1QaCHmnu0sOppUzawLPnMLU2f4BePWN7c/view?usp=sharing
 
 #I hope you enjoy! Feel free to reach out with any suggestion and/or criticism.
 
