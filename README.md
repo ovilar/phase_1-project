@@ -21,12 +21,12 @@
 #couldn't be uploaded to GitHub.
 
 #You can find the slides to the presentation summing up the results at:
-# https://drive.google.com/file/d/1QaCHmnu0sOppUzawLPnMLU2f4BePWN7c/view?usp=sharing
+#https://drive.google.com/file/d/1QaCHmnu0sOppUzawLPnMLU2f4BePWN7c/view?usp=sharing
 
 #I hope you enjoy! Feel free to reach out with any suggestion and/or criticism.
 
 #LIMITATIONS: I do not analyze movies from the past and or the performance of series. Furthermore, one cool
-# analysis that might be interesting is merging this information with licensing products/rights datasets.
+#analysis that might be interesting is merging this information with licensing products/rights datasets.
 #This would allow to check whether certain movies are able to grab a bigger piece of the revenue pie through
 #other activities.
 
